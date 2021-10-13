@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x32e3a4E048Ee493058b24De4213a114e77bf7f4B",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0x32e3a4e048ee493058b24de4213a114e77bf7f4b#code",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "ETH",
+    "ID": 4
+  },
+  "NFT_NAME": "TuttoSwap",
+  "SYMBOL": "TS",
+  "MAX_SUPPLY": 50,
+  "WEI_COST": 6900000000000000,
+  "DISPLAY_COST": 0.0069,
+  "GAS_LIMIT": 210000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/tuttoswap",
+  "SHOW_BACKGROUND": true
+}
